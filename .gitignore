@@ -2,3 +2,10 @@
 **/.project/
 **/Debug/
 
+**.o
+**.d
+**.chm
+**.map
+**.html
+
+
